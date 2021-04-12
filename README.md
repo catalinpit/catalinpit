@@ -30,7 +30,11 @@ I managed to create an online presence with my [Blog](https://catalins.tech) and
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-
+- [I Regret Buying A $4400 Macbook For Software Development - I Bought A PC](https://www.youtube.com/watch?v=6p9AbkwJqs4)
+- [How To Contribute To Open-Source Projects As A Beginner](https://www.youtube.com/watch?v=8e1Mnkdgi4Y)
+- [KeystoneJS & GraphQL API Crash Course](https://www.youtube.com/watch?v=SfYNg6vQH4I)
+- [6 Things I Learnt After Programming Nearly Destroyed My Life](https://www.youtube.com/watch?v=H4mZ4NLiG4o)
+- [Saturday Dev Stream - KeystoneJS, Technical Writing and more [Join Us]](https://www.youtube.com/watch?v=Oj9gj-JtTdQ)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
