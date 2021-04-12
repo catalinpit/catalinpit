@@ -27,6 +27,26 @@ I managed to create an online presence with my [Blog](https://catalins.tech) and
 
 ---
 
+📺 Latest YouTube Videos
+
+<!-- YOUTUBE-VIDEOS-LIST:START -->
+
+<!-- YOUTUBE-VIDEOS-LIST:END -->
+
+
+▶ [...more YouTube videos](https://www.youtube.com/channel/UCl1IRCSmm74qhcFNPTHcbMg?sub_confirmation=1)
+
+---
+
+📘 Latest Blog Articles
+
+<!-- BLOG-ARTICLES-LIST:START -->
+
+<!-- BLOG-ARTICLES-LIST:END -->
+
+▶ [...more blog articles](https://catalins.tech)
+
+---
 
 <!--
 **catalinpit/catalinpit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
