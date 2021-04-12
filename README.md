@@ -44,9 +44,9 @@ I managed to create an online presence with my [Blog](https://catalins.tech) and
 
 📘 Latest Blog Articles
 
-<!-- BLOG-ARTICLES-LIST:START -->
+<!-- BLOG-POST-LIST:START -->
 
-<!-- BLOG-ARTICLES-LIST:END -->
+<!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://catalins.tech)
 
