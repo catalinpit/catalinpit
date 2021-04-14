@@ -45,11 +45,11 @@ I managed to create an online presence with my [Blog](https://catalins.tech) and
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [How To Create A Kickass GitHub Profile Page](https://catalins.tech/how-to-create-a-kickass-github-profile-page)
 - [How To Center Vertically A Flexbox Container With A Column Of Flex Items](https://catalins.tech/how-to-center-vertically-a-flexbox-container-with-a-column-of-flex-items)
 - [Should Developers Use An Existing Blogging Platform Or Build A Blog From Scratch](https://catalins.tech/should-developers-use-an-existing-blogging-platform-or-build-a-blog-from-scratch)
 - [Vue JS CDN Link - How To Use Vue Without Installing It](https://catalins.tech/vue-js-cdn-link-how-to-use-vue-without-installing-it)
 - [Node.js + Express Tutorial for 2021 – Getting Started with the JavaScript Web Server Framework](https://catalins.tech/nodejs-express-tutorial-for-2021-getting-started-with-the-javascript-web-server-framework)
-- [My 9 Must-Have Browser Extensions For Increased Developer Productivity](https://catalins.tech/my-9-must-have-browser-extensions-for-increased-developer-productivity)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://catalins.tech)
