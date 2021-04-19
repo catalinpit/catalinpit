@@ -45,11 +45,11 @@ I managed to create an online presence with my [Blog](https://catalins.tech) and
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Learn The Fundamentals Of Vue JS With Vue 3](https://catalins.tech/learn-the-fundamentals-of-vue-js-with-vue-3)
 - [How To Delete All Local Git Branches In One Go](https://catalins.tech/how-to-delete-all-local-git-branches-in-one-go)
 - [The Fastest Way To Replace All Occurrences Of A String In JavaScript](https://catalins.tech/the-fastest-way-to-replace-all-occurrences-of-a-string-in-javascript)
 - [How To Create A Kickass GitHub Profile Page](https://catalins.tech/how-to-create-a-kickass-github-profile-page)
 - [How To Center Vertically A Flexbox Container With A Column Of Flex Items](https://catalins.tech/how-to-center-vertically-a-flexbox-container-with-a-column-of-flex-items)
-- [Should Developers Use An Existing Blogging Platform Or Build A Blog From Scratch](https://catalins.tech/should-developers-use-an-existing-blogging-platform-or-build-a-blog-from-scratch)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://catalins.tech)
