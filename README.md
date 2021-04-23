@@ -30,11 +30,11 @@ I managed to create an online presence with my [Blog](https://catalins.tech) and
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [[Studying Live] Friday Dev Stream - HarperDB, FastifyJS and more](https://www.youtube.com/watch?v=d9WoFMtx6CQ)
 - [Learn How To Negotiate Your Salary As A Developer](https://www.youtube.com/watch?v=NH1Q6TglMzI)
 - [How To Create A Kickass GitHub Profile Page](https://www.youtube.com/watch?v=p5hf8i-OzlQ)
 - [I Regret Buying A $4400 Macbook For Software Development - I Bought A PC](https://www.youtube.com/watch?v=6p9AbkwJqs4)
 - [How To Contribute To Open-Source Projects As A Beginner](https://www.youtube.com/watch?v=8e1Mnkdgi4Y)
+- [KeystoneJS & GraphQL API Crash Course](https://www.youtube.com/watch?v=SfYNg6vQH4I)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
