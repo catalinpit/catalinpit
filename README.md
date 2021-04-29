@@ -30,7 +30,7 @@ I managed to create an online presence with my [Blog](https://catalins.tech) and
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Vue JS Crash Course - Learn The Fundamentals Of Vue JS With Vue 3](https://www.youtube.com/watch?v=i2v4ysWUgMs)
+- [Learn The Fundamentals Of Vue JS With Vue 3](https://www.youtube.com/watch?v=i2v4ysWUgMs)
 - [How To Delete All Local Git Branches In One Go](https://www.youtube.com/watch?v=Wq9ECGdNvVk)
 - [Learn How To Negotiate Your Salary As A Developer](https://www.youtube.com/watch?v=NH1Q6TglMzI)
 - [How To Create A Kickass GitHub Profile Page](https://www.youtube.com/watch?v=p5hf8i-OzlQ)
