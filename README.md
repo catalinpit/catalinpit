@@ -30,11 +30,11 @@ I managed to create an online presence with my [Blog](https://catalins.tech) and
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Following my friends' programming tutorials [Stream]](https://www.youtube.com/watch?v=e2JlfszrQQM)
 - [Learn The Fundamentals Of Vue JS With Vue 3](https://www.youtube.com/watch?v=i2v4ysWUgMs)
 - [How To Delete All Local Git Branches In One Go](https://www.youtube.com/watch?v=Wq9ECGdNvVk)
 - [Learn How To Negotiate Your Salary As A Developer](https://www.youtube.com/watch?v=NH1Q6TglMzI)
 - [How To Create A Kickass GitHub Profile Page](https://www.youtube.com/watch?v=p5hf8i-OzlQ)
+- [I Regret Buying A $4400 Macbook For Software Development - I Bought A PC](https://www.youtube.com/watch?v=6p9AbkwJqs4)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
