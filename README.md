@@ -45,11 +45,11 @@ I managed to create an online presence with my [Blog](https://catalins.tech) and
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [6 Resources To Learn Vue.js As A Beginner](https://catalins.tech/6-resources-to-learn-vuejs-as-a-beginner)
 - [Get Started With Vue CLI and UI](https://catalins.tech/get-started-with-vue-cli-and-ui)
 - [Attribute Binding In Vue JS](https://catalins.tech/attribute-binding-in-vue-js)
 - [Hashnode API - How To Display Your Blog Articles On Your Portfolio Page](https://catalins.tech/hashnode-api-how-to-display-your-blog-articles-on-your-portfolio-page)
 - [Build A REST API With HarperDB and FastifyJS](https://catalins.tech/build-a-rest-api-with-harperdb-and-fastifyjs)
-- [How To Make Money With Technical Articles As A Developer](https://catalins.tech/how-to-make-money-with-technical-articles-as-a-developer)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://catalins.tech)
