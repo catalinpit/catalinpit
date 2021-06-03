@@ -30,11 +30,11 @@ I managed to create an online presence with my [Blog](https://catalins.tech) and
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Track Job Applications With Notion API, Node.js and FastifyJS](https://www.youtube.com/watch?v=QOY86u423BU)
 - [Build a REST API With Node.js, HarperDB and FastifyJS](https://www.youtube.com/watch?v=UhNJPrkeMFM)
 - [Following my friends' programming tutorials [Stream]](https://www.youtube.com/watch?v=e2JlfszrQQM)
 - [Learn The Fundamentals Of Vue JS With Vue 3](https://www.youtube.com/watch?v=i2v4ysWUgMs)
 - [How To Delete All Local Git Branches In One Go](https://www.youtube.com/watch?v=Wq9ECGdNvVk)
-- [Learn How To Negotiate Your Salary As A Developer](https://www.youtube.com/watch?v=NH1Q6TglMzI)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
