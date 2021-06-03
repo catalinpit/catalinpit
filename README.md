@@ -45,7 +45,7 @@ I managed to create an online presence with my [Blog](https://catalins.tech) and
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [6 Advanced Node.js Courses](https://catalins.tech/6-advanced-nodejs-courses)
+- [Pass Command Line Arguments To Your Node.js App](https://catalins.tech/pass-command-line-arguments-to-your-nodejs-app)
 - [Track Job Applications With Notion API, Node.js and FastifyJS](https://catalins.tech/track-job-applications-with-notion-api-nodejs-and-fastifyjs)
 - [6 Resources To Learn Vue.js As A Beginner](https://catalins.tech/6-resources-to-learn-vuejs-as-a-beginner)
 - [Get Started With Vue CLI and UI](https://catalins.tech/get-started-with-vue-cli-and-ui)
