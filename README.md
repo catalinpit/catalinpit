@@ -30,11 +30,11 @@ I managed to create an online presence with my [Blog](https://catalins.tech) and
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Don't Miss These 5 Bits of Advice For Beginner Programmers](https://www.youtube.com/watch?v=_R9gNyYdMco)
 - [A Beginner's Guide To The File System Module In Node.js](https://www.youtube.com/watch?v=QkwHP4d01xA)
 - [Track Job Applications With Notion API, Node.js and FastifyJS](https://www.youtube.com/watch?v=QOY86u423BU)
 - [Build a REST API With Node.js, HarperDB and FastifyJS](https://www.youtube.com/watch?v=UhNJPrkeMFM)
 - [Following my friends' programming tutorials [Stream]](https://www.youtube.com/watch?v=e2JlfszrQQM)
-- [Learn The Fundamentals Of Vue JS With Vue 3](https://www.youtube.com/watch?v=i2v4ysWUgMs)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
