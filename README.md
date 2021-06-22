@@ -45,11 +45,11 @@ I managed to create an online presence with my [Blog](https://catalins.tech) and
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [How To Use MySQL With Node.js And Docker](https://catalins.tech/how-to-use-mysql-with-nodejs-and-docker)
 - [A Beginner's Guide To The File System Module In Node.js](https://catalins.tech/a-beginners-guide-to-the-file-system-module-in-nodejs)
 - [Pass Command Line Arguments To Your Node.js App](https://catalins.tech/pass-command-line-arguments-to-your-nodejs-app)
 - [Track Job Applications With Notion API, Node.js and FastifyJS](https://catalins.tech/track-job-applications-with-notion-api-nodejs-and-fastifyjs)
 - [6 Resources To Learn Vue.js As A Beginner](https://catalins.tech/6-resources-to-learn-vuejs-as-a-beginner)
-- [Get Started With Vue CLI and UI](https://catalins.tech/get-started-with-vue-cli-and-ui)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://catalins.tech)
