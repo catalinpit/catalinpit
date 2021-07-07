@@ -45,11 +45,11 @@ I managed to create an online presence with my [Blog](https://catalins.tech) and
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [GraphCMS + Nuxt.js - Vote Your Favourite Tech Courses](https://catalins.tech/graphcms-nuxtjs-vote-your-favourite-tech-courses)
 - [GitHub Copilot - Will Artificial Intelligence Replace Developers?](https://catalins.tech/github-copilot-will-artificial-intelligence-replace-developers)
 - [Learn How To Use MySQL With Node.js And Docker](https://catalins.tech/learn-how-to-use-mysql-with-nodejs-and-docker)
 - [A Beginner's Guide To The File System Module In Node.js](https://catalins.tech/a-beginners-guide-to-the-file-system-module-in-nodejs)
 - [Pass Command Line Arguments To Your Node.js App](https://catalins.tech/pass-command-line-arguments-to-your-nodejs-app)
-- [Track Job Applications With Notion API, Node.js and FastifyJS](https://catalins.tech/track-job-applications-with-notion-api-nodejs-and-fastifyjs)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://catalins.tech)
