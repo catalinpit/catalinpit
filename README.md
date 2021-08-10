@@ -30,11 +30,11 @@ I managed to create an online presence with my [Blog](https://catalins.tech) and
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Make Money As A Developer By Selling APIs](https://www.youtube.com/watch?v=TvRe8NLbF30)
 - [Build a Voting App for Tech Courses with GraphCMS and Nuxt](https://www.youtube.com/watch?v=bsOHkdYFSK4)
 - [Demo of GitHub Copilot](https://www.youtube.com/watch?v=edSZh-tpTIk)
 - [GitHub Copilot - Will Artificial Intelligence Replace Developers?](https://www.youtube.com/watch?v=uwfhDNxR_Zw)
 - [A Beginner's Guide To The File System Module In Node.js](https://www.youtube.com/watch?v=QkwHP4d01xA)
-- [Track Job Applications With Notion API, Node.js and FastifyJS](https://www.youtube.com/watch?v=QOY86u423BU)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
