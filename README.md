@@ -30,11 +30,11 @@ I managed to create an online presence with my [Blog](https://catalins.tech) and
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [What you NEED to become a developer](https://www.youtube.com/watch?v=ELzOxeyiQ1s)
 - [Is it too late to start learning how to CODE?](https://www.youtube.com/watch?v=DZT_VXrKcKg)
 - [Make Money As A Developer By Selling APIs](https://www.youtube.com/watch?v=TvRe8NLbF30)
 - [Build a Voting App for Tech Courses with GraphCMS and Nuxt](https://www.youtube.com/watch?v=bsOHkdYFSK4)
 - [Demo of GitHub Copilot](https://www.youtube.com/watch?v=edSZh-tpTIk)
+- [GitHub Copilot - Will Artificial Intelligence Replace Developers?](https://www.youtube.com/watch?v=uwfhDNxR_Zw)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
