@@ -45,11 +45,11 @@ I managed to create an online presence with my [Blog](https://catalins.tech) and
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Find Open Source Projects To Contribute As A Beginner](https://catalins.tech/find-open-source-projects-to-contribute-as-a-beginner)
 - [Make Money As A Developer By Selling APIs](https://catalins.tech/make-money-as-a-developer-by-selling-apis)
 - [Getting Started With Open-Source: How To Contribute As A Beginner](https://catalins.tech/getting-started-with-open-source-how-to-contribute-as-a-beginner)
 - [Create Custom API Endpoints in Nuxt](https://catalins.tech/create-custom-api-endpoints-in-nuxt)
 - [GraphCMS + Nuxt.js - Vote Your Favourite Tech Courses](https://catalins.tech/graphcms-nuxtjs-vote-your-favourite-tech-courses)
-- [GitHub Copilot - Will Artificial Intelligence Replace Developers?](https://catalins.tech/github-copilot-will-artificial-intelligence-replace-developers)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://catalins.tech)
