@@ -30,11 +30,11 @@ I managed to create an online presence with my [Blog](https://catalins.tech) and
 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Tech Unfiltered with @Francesco Ciulla  - Social Media, YouTube and Community](https://www.youtube.com/watch?v=KeJ7MlwwVK4)
 - [Break out of tutorial hell NOW](https://www.youtube.com/watch?v=blot-hR3ZWA)
 - [Is it too late to start learning how to CODE?](https://www.youtube.com/watch?v=DZT_VXrKcKg)
 - [Make Money As A Developer By Selling APIs](https://www.youtube.com/watch?v=TvRe8NLbF30)
 - [Build a Voting App for Tech Courses with GraphCMS and Nuxt](https://www.youtube.com/watch?v=bsOHkdYFSK4)
-- [Demo of GitHub Copilot](https://www.youtube.com/watch?v=edSZh-tpTIk)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 
