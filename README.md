@@ -45,11 +45,11 @@ I managed to create an online presence with my [Blog](https://catalins.tech) and
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [14 Best Web Developer Portfolios To Get Inspiration](https://catalins.tech/14-best-web-developer-portfolios-to-get-inspiration)
 - [My First 6 Months as a Developer Advocate at Hashnode](https://catalins.tech/my-first-6-months-as-a-developer-advocate-at-hashnode)
 - [Find Open Source Projects To Contribute As A Beginner](https://catalins.tech/find-open-source-projects-to-contribute-as-a-beginner)
 - [Make Money As A Developer By Selling APIs](https://catalins.tech/make-money-as-a-developer-by-selling-apis)
 - [Getting Started With Open-Source: How To Contribute As A Beginner](https://catalins.tech/getting-started-with-open-source-how-to-contribute-as-a-beginner)
-- [Create Custom API Endpoints in Nuxt](https://catalins.tech/create-custom-api-endpoints-in-nuxt)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://catalins.tech)
