@@ -45,11 +45,11 @@ I managed to create an online presence with my [Blog](https://catalins.tech) and
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [Mac Terminal Commands I Use Everyday](https://catalins.tech/mac-terminal-commands)
 - [Is Node.js Still Relevant and Worth Learning?](https://catalins.tech/is-nodejs-still-relevant-and-worth-learning)
 - [14 Best Web Developer Portfolios To Get Inspiration](https://catalins.tech/14-best-web-developer-portfolios-to-get-inspiration)
 - [My First 6 Months as a Developer Advocate at Hashnode](https://catalins.tech/my-first-6-months-as-a-developer-advocate-at-hashnode)
 - [Find Open Source Projects To Contribute As A Beginner](https://catalins.tech/find-open-source-projects-to-contribute-as-a-beginner)
+- [Make Money As A Developer By Selling APIs](https://catalins.tech/make-money-as-a-developer-by-selling-apis)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://catalins.tech)
