@@ -45,11 +45,11 @@ I managed to create an online presence with my [Blog](https://catalins.tech) and
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Node.Js + PostgreSQL + Heroku Error: No pg_hba.conf entry for host, SSL off](https://catalins.tech/nodejs-postgresql-heroku-error-no-pghbaconf-entry-for-host-ssl-off)
 - [Check if an Array of Objects Contains a Value in JavaScript](https://catalins.tech/array-of-objects-contains-a-value-in-javascript)
 - [I Learn Full Stack Development Again](https://catalins.tech/learn-full-stack-development)
 - [Mac Terminal Commands I Use Everyday](https://catalins.tech/mac-terminal-commands)
 - [Is Node.js Still Relevant and Worth Learning?](https://catalins.tech/is-nodejs-still-relevant-and-worth-learning)
-- [14 Best Web Developer Portfolios To Get Inspiration](https://catalins.tech/14-best-web-developer-portfolios-to-get-inspiration)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://catalins.tech)
