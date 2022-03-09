@@ -45,11 +45,11 @@ I managed to create an online presence with my [Blog](https://catalins.tech) and
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Store a Javascript Array in localStorage](https://catalins.tech/store-array-in-localstorage)
 - [React Class Components to Functional Components With Hooks](https://catalins.tech/react-class-components-to-functional-components-with-hooks)
 - [iTerm2 + Oh-My-Zsh: Supercharge Your Mac Terminal](https://catalins.tech/improve-mac-terminal)
 - [Install a Specific Version of a Node.JS Package](https://catalins.tech/install-a-specific-version-of-a-nodejs-package)
 - [Build An E-Commerce Backend With Minimal Code](https://catalins.tech/hasura-ecommerce-backend)
-- [How to Push Empty Git Commits](https://catalins.tech/git-empty-commit)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://catalins.tech)
