@@ -1,5 +1,11 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Catalin Pit!
 
+🔭 I’m currently working on [@iCodeThis](https://www.icodethis.com)
+
+🧰 I use `TypeScript`, `React/Next.js`, `PostgreSQL`, `tRPC`, and `Prisma`
+
+📫 How to reach me: `me [@] catalins [dot] tech`
+
 <!--
 **catalinpit/catalinpit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
