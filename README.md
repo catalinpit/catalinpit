@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on [@iCodeThis](https://www.icodethis.com)
 
-🧰 I use `TypeScript`, `React/Next.js`, `PostgreSQL`, `tRPC`, and `Prisma`
+🧰 I use `TypeScript`, `React/Next.js`, `PostgreSQL`, `tRPC`, `Node.js`, and `Prisma`
 
 📫 How to reach me: `me [@] catalins [dot] tech`
 
