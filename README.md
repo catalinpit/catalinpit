@@ -1,8 +1,10 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Catalin Pit!
 
-🔭 I’m currently working on [@iCodeThis](https://www.icodethis.com)
+🔭 I’m currently working on [@documenso](https://github.com/documenso/documenso)
 
-🧰 I use `TypeScript`, `React/Next.js`, `PostgreSQL`, `tRPC`, `Node.js`, and `Prisma`
+🧰 I use `TypeScript`, `React/Next.js`, `PostgreSQL`, `TailwindCSS`, `Prisma`
+
+⏮️ Previously also worked with: `Node.js` and `tRPC`
 
 📫 How to reach me: `me [@] catalins [dot] tech`
 
