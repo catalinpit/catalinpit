@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Catalin Pit!
 
-🔭 I’m currently working on [@documenso](https://github.com/documenso/documenso) and [the technical writing course for developers](https://technicalwriting.online?utm_source=ghbio)
+🔭 I’m currently working on [@documenso](https://github.com/documenso/documenso)
 
 🧰 I use `TypeScript`, `React/Next.js`, `PostgreSQL`, `TailwindCSS`, `Prisma`
 
