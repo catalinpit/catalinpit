@@ -21,4 +21,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://polar.sh/catalins-tech/donate"><picture><source media="(prefers-color-scheme: dark)" srcset="https://polar.sh/embed/tiers.svg?org=catalins-tech&darkmode"><img alt="Subscription Tiers on Polar" src="https://polar.sh/embed/tiers.svg?org=catalins-tech"></picture></a>
+<a href="https://polar.sh/catalins-tech/donate">
+  <picture>
+    <source 
+      media="(prefers-color-scheme: dark)" 
+      srcset="https://polar.sh/embed/tiers.svg?org=catalins-tech&darkmode&label=Catalin%20Pit"
+    >
+    <img 
+      alt="Subscription Tiers on Polar" 
+      src="https://polar.sh/embed/tiers.svg?org=catalins-tech&label=Catalin%20Pit"
+    >
+  </picture>
+</a>
