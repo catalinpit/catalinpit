@@ -2,9 +2,7 @@
 
 🔭 I’m currently working on [@documenso](https://github.com/documenso/documenso)
 
-🧰 I use `TypeScript`, `React/Next.js`, `PostgreSQL`, `TailwindCSS`, `Prisma`
-
-⏮️ Previously also worked with: `Node.js` and `tRPC`
+🧰 I use `TypeScript`, `React/Next.js`, `PostgreSQL`, `TailwindCSS`, `Prisma`, `Node.js` and `tRPC` among others.
 
 📫 How to reach me: `me [@] catalins [dot] tech`
 
