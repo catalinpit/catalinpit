@@ -22,14 +22,14 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://polar.sh/catalins-tech/donate">
-  <picture>
-    <source 
-      media="(prefers-color-scheme: dark)" 
-      srcset="https://polar.sh/embed/tiers.svg?org=catalins-tech&darkmode&label=Catalin%20Pit"
-    >
-    <img 
-      alt="Subscription Tiers on Polar" 
-      src="https://polar.sh/embed/tiers.svg?org=catalins-tech&label=Catalin%20Pit"
-    >
-  </picture>
+ <picture>
+   <source 
+     media="(prefers-color-scheme: dark)" 
+     srcset="https://polar.sh/embed/tiers.svg?org=catalins-tech&darkmode&label=Support%20Catalin%20Pit"
+   >
+   <img 
+     alt="Subscription Tiers on Polar" 
+     src="https://polar.sh/embed/tiers.svg?org=catalins-tech&label=Support%20Catalin%20Pit"
+   >
+ </picture>
 </a>
