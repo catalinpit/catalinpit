@@ -3,7 +3,11 @@
 🔭 I’m currently working on [@documenso](https://github.com/documenso/documenso)
 
 🧰 Tech stack at work: `TypeScript`, `React/Next.js`, `PostgreSQL`, `TailwindCSS`, `Prisma`, `Node.js` and `tRPC` among others.
-🧰 Tech stack for side projects: `TypeScript`, `Bun`, `Hono`, `PostgreSQL`, `Prisma`, `React`, `Vite`, `TailwindCSS`, `shadcn/ui`, `TanStack Query`, and `TanStack Router` among others.
+
+🧰 Tech stack for side projects:
+- Backend: `TypeScript`, `Bun`, `Hono`, `PostgreSQL`, `Prisma`
+- Frontend: `React`, `Vite`, `TailwindCSS`, `shadcn/ui`, `TanStack Query`, and `TanStack Router`
+- IDE: Windsurf + Claude 3.5 Sonnet
 
 📫 How to reach me: `me [@] catalins [dot] tech`
 
