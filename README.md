@@ -7,7 +7,6 @@
 🧰 Tech stack for side projects:
 - Backend: `TypeScript`, `Bun`, `Hono`, `PostgreSQL`, `Prisma`
 - Frontend: `React`, `Vite`, `TailwindCSS`, `shadcn/ui`, `TanStack Query`, and `TanStack Router`
-- IDE: Windsurf + Claude 3.5 Sonnet
 
 📫 How to reach me: `me [@] catalins [dot] tech`
 
