@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on [@documenso](https://github.com/documenso/documenso)
 
-🧰 Tech stack at work: `TypeScript`, `React/Next.js`, `PostgreSQL`, `TailwindCSS`, `Prisma`, `Node.js` and `tRPC` among others.
+🧰 Tech stack at work: `TypeScript`, `React Router 7 (Remix)`, `PostgreSQL`, `TailwindCSS`, `Prisma`, `Node.js`, `Hono` and `tRPC` among others.
 
 🧰 Tech stack for side projects:
 - Backend: `TypeScript`, `Bun`, `Hono`, `PostgreSQL`, `Prisma`
