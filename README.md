@@ -2,15 +2,8 @@
 
 🔭 I’m currently working on [@documenso](https://github.com/documenso/documenso)
 
-🧰 Tech stack at work: `TypeScript`, `React Router 7 (Remix)`, `PostgreSQL`, `TailwindCSS`, `Prisma`, `Node.js`, `Hono` and `tRPC` among others.
-
-🧰 Tech stack for side projects:
-- Backend: `TypeScript`, `Bun`, `Hono`, `PostgreSQL`, `Prisma`
-- Frontend: `React`, `Vite`, `TailwindCSS`, `shadcn/ui`, `TanStack Query`, `TanStack Router` (or `TanStack Start`).
-
 💻 Products:
 - [The Road to Next - Master Full-Stack Web Development with Next.js 15 and React 19](https://catal.ink/nextjs-course)
-- [Writing for Developers](https://technicalwriting.online/?utm_source=githubio)
 
 📫 How to reach me: `me [@] catalins [dot] tech`
 
