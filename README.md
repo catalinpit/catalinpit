@@ -2,7 +2,6 @@
 
 🔭 I’m currently working on [@documenso](https://github.com/documenso/documenso)
 
-💻 Products:
 - [The Road to Next - Master Full-Stack Web Development with Next.js 15 and React 19](https://catal.ink/nextjs-course)
 
 📫 How to reach me: `me [@] catalins [dot] tech`
